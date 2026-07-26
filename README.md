@@ -1,3 +1,24 @@
+# LexAssist
+
+LexAssist is a RAG-based legal assistant LLM for analyzing, summarizing, and answering questions over legal documents and contracts.
+
+## Highlights
+
+- Next.js app router frontend
+- MongoDB Atlas vector search
+- Google Gemini embeddings and chat
+- Document upload and processing pipeline
+- Auth, chat sessions, and document management
+
+## Setup
+
+1. Install dependencies.
+2. Add the required environment variables.
+3. Run the development server.
+
+## Notes
+
+This repository was merged with the GitHub README initial commit so the remote history can be pushed cleanly.<<<<<<< HEAD
 # ⚖️ LexAssist — AI-Powered RAG Legal Intelligence & Document Assistant
 
 [![Next.js](https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
@@ -196,3 +217,7 @@ Create a Vector Search index named `vector_index` on the `chunks` collection in 
 Developed by **Umer** — LLM & Full-Stack Engineer  
 - GitHub: [@your-username](https://github.com/your-username)
 - LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+=======
+# lexassist
+A RAG based legal Assistant LLM
+>>>>>>> origin/main
