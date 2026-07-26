@@ -215,8 +215,7 @@ Create a Vector Search index named `vector_index` on the `chunks` collection in 
 ## 👤 Author & Contact
 
 Developed by **Umer** — LLM & Full-Stack Engineer  
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- GitHub: [@your-username](https://github.com/M-Umer_5477)
 =======
 # lexassist
 A RAG based legal Assistant LLM
